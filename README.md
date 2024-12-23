@@ -117,7 +117,7 @@ The project utilizes the following datasets:
 
 1. Clone the repository:
    ```bash
-  [ git clone [[repository_link]](https://github.com/Himanshu130901/ChefSense)]
+  [ git clone [[repository_link](https://github.com/Himanshu130901/ChefSense)]
    ```
 2. Install required libraries:
    ```bash
